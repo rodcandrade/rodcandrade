@@ -1,6 +1,5 @@
 ### Olá! 
 
-- 🔭 Atualmente procurando emprego
 - 🌱 Estudando Javascript/React
 
 <div align="center">
