@@ -28,8 +28,6 @@
 
 ###
 
-  ![Snake animation](https://github.com/rodcandrade/rodcandrade/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <p align="left">Find me at</p>
